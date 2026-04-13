@@ -25,7 +25,8 @@ Everything below is just this test applied to recurring patterns.
 - Hate speech against any sexuality / gender (calling someone a "gay prick" vs just "prick")
 - Sexual content with **"you" / "your" / a name** ("i want your X", "suck your Y", hero-name proxies like "poor puck's throat")
 - Attacks on family with harm verbs or sexual content ("end ur mother", "fuck ur sister", "ur mother is good")
-- Personal attacks on real-world identity ("your life is sad", "your girlfriend is ugly", "virgin", "you have no life", "piece of shit", "cunt", "whore")
+- Personal attacks on real-world identity ("your life is sad", "your girlfriend is ugly", "virgin", "you have no life", "piece of shit", "cunt", "whore", "fucking bitch")
+- Physical insults ("ugly", "big nose")
 
 ### Always **banter** (press `o`)
 - Gameplay criticism: "trash offlane", "noob mid", "feeding carry", "useless sup"
