@@ -56,7 +56,7 @@ Everything below is just this test applied to recurring patterns.
 
 ---
 
-## The edge cases that tripped you up last time
+## The edge cases
 
 1. **Expletive + no target = banter.** "fuck this", "cyka", "blyat", "tangina", "fucking trash" → all banter. The expletive alone doesn't make it toxic; the target does.
 2. **Expletive + "your [thing you care about]" = toxic.** "fuck your girlfriend", "fuck your mom (with harm verb)", "fuck your life" → toxic. The target flips it.
