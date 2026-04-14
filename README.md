@@ -86,8 +86,3 @@ Everything below is just this test applied to recurring patterns.
 **If you hesitate >5 seconds: drop (d). Don't guess, don't stall.**
 
 ---
-
-## One rule to override all rules
-
-> **Consistency > correctness.**
-> Pick a call and apply it the same way every time. A rubric you apply consistently with 80% accuracy beats a rubric you apply inconsistently with 95% accuracy, every single time, for training a model.
